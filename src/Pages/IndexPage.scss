@@ -1,0 +1,21 @@
+.note-wrap {
+  h1 {
+    padding-bottom: 10px;
+  }
+
+  &-btn {
+    margin-top: 25px;
+    text-align: center;
+  }
+
+  &-notes {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    input {
+      padding: 5px;
+    }
+  }
+
+}
